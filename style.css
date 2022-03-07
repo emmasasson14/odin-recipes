@@ -31,12 +31,11 @@ body {
 
 .inner {
     color: white;
-    font-size: 200px;
+    font-size: 10vw;
     font-weight: 100;
     font-style: italic;
     display: flex;
     margin: auto;
-    flex-wrap: wrap;
 
 }
 
