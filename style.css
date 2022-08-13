@@ -20,7 +20,7 @@ body {
 
 .mainpic {
     display: flex;
-    width: 100%;
+    width: vw;
     height: 100%;
     background-image: url(https://media.giphy.com/media/12uXi1GXBibALC/giphy.gif);
     /*background-image: url("images/homepage.jpg"); */
@@ -65,4 +65,3 @@ a:hover {
     background-color: black;
     color: white;
 }
-
